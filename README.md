@@ -9,10 +9,10 @@ Passionate about clean code, problem solving, and continuous learning.
 ---
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/bayu-saputra-18abb6406"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
+  <a href="https://github.com/bayuess"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"></a>
+  <a href="https://www.instagram.com/bayuusukamiayam?igsh=MW9haHZ2MDJ2MGM3bA=="><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
 </p>
 
 ---
